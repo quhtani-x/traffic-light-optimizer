@@ -1,7 +1,7 @@
 import random
 import sys
 import pygame
-
+# DISCLAIMER , some  comments has been added by Ai as my code didnt have much comments and i told the Ai to explain the code , also remove dead commented code
 # SMART TRAFFIC LIGHT (adaptive control).
 # a 4-way intersection where cars arrive randomly. a dumb fixed-timer light just
 # switches every X seconds no matter what. this AI light watches how many cars
